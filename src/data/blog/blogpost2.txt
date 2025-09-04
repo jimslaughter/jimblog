@@ -1,0 +1,23 @@
+---
+
+title: "September 3"
+
+draft: false
+
+tags: \[daily]
+
+\# pubDatetime omitted on purpose (auto-filled)
+
+\# modDatetime:    # only add when you actually revise
+
+---
+
+
+
+Hi Everyone,  
+
+
+
+This is the first time I've tried the newly revised template for Astropaper. I'm trying to make it less sensitive to variations in data entry, etc.  We shall see...  The US Open was great this evening.  Janick Sinner was brilliant against his countryman Muchetti.  Sinner had it all the way but his opponent had flashes of brilliance. He might end up being highly ranked for a long time.  
+
+![Alt text for accessibility](/src/assets/images/horse.jpg)
